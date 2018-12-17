@@ -64,7 +64,7 @@
 - [Scarborough_Coral](https://github.com/ScarboroughCoral/)
 - [Kelechi Nwosu](https://github.com/klexzi/)
 - [Kamil Sobiszewski](https://github.com/SobiszeK/)
-- [Deepak](https://github.com/deepaknigam0407)
+- [Deepak Nigam](https://github.com/deepaknigam0407)
 - [Sara Womiloju](https://github.com/saradoubleu/)
 - [Tannmay Joshi](https://github.com/tanmay-chanakya/)
 - [Veronica Lusby](https://github.com/veronicamengyan)
